@@ -1,2 +1,2 @@
-# Login and Registraionp page
+# Login and Registraion page
 HTML,CSS,JS,PHP
